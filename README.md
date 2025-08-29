@@ -19,8 +19,8 @@ Universal Forwarder installed and running, configured to forward Windows Securit
 <img width="940" height="512" alt="image" src="https://github.com/user-attachments/assets/67926037-1d3f-4292-84e3-abd54cb20ec1" />
 
 
-### 3. Splunk Enterprise Data Input Configuration  
-
+### 3. Splunk Enterprise Recieving Data Configuration  
+Splunk Enterprise configured to listen on port 9997
 <img width="1349" height="675" alt="image" src="https://github.com/user-attachments/assets/90b1037d-ee5b-45ec-a95a-08cb92c6f167" />
 <img width="940" height="470" alt="image" src="https://github.com/user-attachments/assets/c5ac5f79-6182-4f24-ae3b-3954964103df" />
 
