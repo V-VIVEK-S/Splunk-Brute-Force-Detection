@@ -1,0 +1,2 @@
+sourcetype="WinEventLog"
+index=wineventlog sourcetype="WinEventLog" EventCode=4625
